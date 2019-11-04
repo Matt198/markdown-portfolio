@@ -1,5 +1,5 @@
 # HERE IS A LIST OF MY FAV THINGS:
--Football
--Travel
--Food
--Controls
+- Football
+- Travel
+- Food
+- Controls
